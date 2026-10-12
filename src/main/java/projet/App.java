@@ -1,4 +1,4 @@
-package ma.projet;
+package projet;
 
 /**
  * Hello world!
